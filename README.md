@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 
 
 -->
-- 🔭 No momento estou em busca de uma oportunidade de trabalho ...
-- 🌱 Estou estudando arquitetura de nuvem, Azure, AWS e Google ...
-- 👯 Estou a procura de participação em projetos sem fins lucrativos, como voluntário, para busca de conhecimento e prática ...
+- 🔭 No momento estou em busca de uma oportunidade de trabalho.
+- 🌱 Estou estudando JavaScript e tenho experiencia em Java e Phyton.
+
 
 ##
 
